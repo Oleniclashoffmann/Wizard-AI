@@ -1,6 +1,6 @@
-from env.card import Card
-from env.player import Player
-from utils.constants import SUITS, VALUES, SPECIAL_CARDS
+from card import Card
+from player import Player
+from utils import SUITS, VALUES, SPECIAL_CARDS
 import random
 
 class WizardGame:
