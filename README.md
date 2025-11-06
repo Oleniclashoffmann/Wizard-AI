@@ -1,2 +1,2 @@
 # Wizard-AI
-Build Wizard AI to, win against my siblings....
+Build Wizard AI
